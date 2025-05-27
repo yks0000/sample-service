@@ -9,7 +9,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "flask (>=3.1.1,<4.0.0)",
-    "prometheus-client (>=0.22.0,<0.23.0)"
+    "prometheus-client (>=0.22.0,<0.23.0)",
+    "locust (>=2.37.5,<3.0.0)"
 ]
 
 
